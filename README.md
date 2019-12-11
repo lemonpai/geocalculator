@@ -1,2 +1,2 @@
 # geocalculator
-calculator about latitude and longitude
+a calculator about latitude and longitude
