@@ -1,4 +1,6 @@
 #/usr/bin/python3
+import sys
+sys.path.append('.')
 from tkinter import *
 from geographiclib.geodesic import Geodesic
 from geographiclib.geomath  import Math
